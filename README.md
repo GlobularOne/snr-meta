@@ -4,7 +4,7 @@ Snr (Stick 'n' Run) is a project that allows generating bootable mediums based o
 
 ## Snr components
 
-Snr is separated into several projects, which is explained in [DESIGN.md](https://github.com/GlobularOne/snr-meta/main/blob/DESIGN.md). This repository has all the snr components as submodules, so fetching all the submodules should give you the source code for all the components.
+Snr is separated into several projects, which is explained in [DESIGN.md](https://github.com/GlobularOne/snr-meta/blob/main/DESIGN.md). This repository has all the snr components as submodules, so fetching all the submodules should give you the source code for all the components.
 
 ## Why generate images based on Debian to run payloads
 
@@ -14,7 +14,7 @@ And that is what snr does. Snr generates a bootable image (both BIOS and UEFI) b
 
 ## How to protect from such attacks 
 
-Protection from these types of attacks is explained in [PROTECTION.md](https://github.com/GlobularOne/snr-meta/main/blob/PROTECTION.md)
+Protection from these types of attacks is explained in [PROTECTION.md](https://github.com/GlobularOne/snr-meta/blob/main/PROTECTION.md)
 
 ## Contacting the author
 
