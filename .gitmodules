@@ -1,0 +1,11 @@
+[submodule "libsnr"]
+    path = libsnr
+    url = https://github.com/GlobularOne/libsnr.git
+
+[submodule "snr"]
+    path = snr
+    url = https://github.com/GlobularOne/snr.git
+
+[submodule "snr_payloads"]
+    path = snr_payloads
+    url = https://github.com/GlobularOne/snr_payloads.git
